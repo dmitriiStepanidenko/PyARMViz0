@@ -5,8 +5,8 @@ description = "Advanced Python Association Rule Visualization Library"
 authors = ["Mazeofthemind"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/mazeofthemind/PyARMViz"
-repository = "https://github.com/mazeofthemind/PyARMViz"
+homepage = "https://github.com/dmitriiStepanidenko/PyARMViz0"
+repository = "https://github.com/dmitriiStepanidenko/PyARMViz0"
 documentation = "https://github.com/mazeofthemind/PyARMViz"
 
 keywords = ["packaging", "dependency", "infer", "pyproject.toml"]
